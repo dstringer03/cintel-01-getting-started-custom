@@ -13,7 +13,7 @@
 # ============================================================
 
 [project]
-name = "cintel-01-getting-started"  # Usually matches repository name (use lowercase and dashes).
+name = "cintel-01-getting-started-CUSTOM"  # Usually matches repository name (use lowercase and dashes).
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"
